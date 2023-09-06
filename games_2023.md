@@ -6,7 +6,7 @@
 - [ ] Sea of Stars
 - [ ] Baldur's Gate 3
 - [ ] Dead Space Remake
-- [~] Star Wars Jedi: Survivor
+- [ ] Star Wars Jedi: Survivor
 
 ## Пройденные игры
 
