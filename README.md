@@ -8,4 +8,4 @@
 
 Больше  об играх в жанре "Метроидвания" [r/Metroidvanias](https://www.reddit.com/r/Metroidvanias/).
 
-![Сообщество metroidvania на reddit](/media/metro "r/metroidvanias")
+![Сообщество metroidvania на reddit](/media/metro.png "r/metroidvanias")
