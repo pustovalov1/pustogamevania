@@ -10,43 +10,4 @@
 
 ## Пройденные игры
 
-
-```json:table
-{
-        "fields" : [
-                {"key": "a", "label": "Название игры"},
-                {"key": "b", "label": "Моя оценка"},
-                {"key": "c", "label": "metacritic"}
-        ],
-        "items" : [
-                {"a": "Yakuza 0", 							"b": "8.5/10"},
-                {"a": "Unravel 2", 							"b": "7/10"},
-                {"a": "Grime", 								"b": "7.5/10"},
-                {"a": "Rogue Legacy 2", 					"b": "7/10"},
-                {"a": "Super Mario Odissey", 				"b": "9/10"},
-                {"a": "Spelunky 2", 						"b": "7/10"},
-                {"a": "Curse of the Dead Gods", 			"b": "7/10"},
-                {"a": "Little Nightmares 2", 				"b": "7.5/10"},
-                {"a": "Death stranding", 					"b": "6.5/10"},
-                {"a": "Resident Evil 4 Remake", 			"b": "9/10"},
-                {"a": "Metroid Dread", 						"b": "8/10"},
-                {"a": "It Takes Two", 						"b": "7.5/10"},
-                {"a": "Vampire Survirors", 					"b": "7.5/10"},
-                {"a": "Doom", 								"b": "10/10"},
-                {"a": "Doom 2", 							"b": "10/10"},
-                {"a": "Horizon Forbidden West", 			"b": "6.5/10"},
-                {"a": "Cyberpunk 2077", 					"b": "7.5/10"},
-                {"a": "Sonic Mania", 						"b": "7/10"},
-                {"a": "Returnal", 							"b": "7.5/10"},
-                {"a": "Outlast", 							"b": "5.5/10"},
-                {"a": "Anodyne", 							"b": "6.5/10"},
-                {"a": "Diablo 4", 							"b": "7.5/10"},
-                {"a": "Batman: Arkham Asylum", 				"b": "8/10"},
-                {"a": "Batman: Arkham City", 				"b": "8/10"},
-                {"a": "Marvel’s Spider-Man", 				"b": "7.5/10"},
-                {"a": "Super Meatboy", 						"b": "7.5/10"},
-                {"a": "Rayman Legends", 					"b": "8/10"},
-                {"a": "F.I.S.T.: Forged In Shadow Torch", 	"b": "8/10"}
-        ]
-}
-```
+<table role="table" aria-busy="false" aria-colcount="3" class="table b-table gl-mt-0! gl-table" id="__BVID__297"><caption><small>Generated with JSON data</small></caption><!----><thead role="rowgroup" class=""><!----><tr role="row" class=""><th role="columnheader" scope="col" tabindex="0" aria-colindex="1" aria-sort="ascending" class="position-relative"><div>Название игры</div><span class="sr-only"> (Click to sort descending)</span></th><th role="columnheader" scope="col" tabindex="0" aria-colindex="2" aria-sort="none" class="position-relative"><div>Моя оценка</div><span class="sr-only"> (Click to sort ascending)</span></th><th role="columnheader" scope="col" aria-colindex="3" class="position-relative"><div>metacritic</div><span class="sr-only"> (Click to clear sorting)</span></th></tr></thead><tbody role="rowgroup"><!----><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Anodyne</td><td aria-colindex="2" role="cell" class="">6.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Batman: Arkham Asylum</td><td aria-colindex="2" role="cell" class="">8/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Batman: Arkham City</td><td aria-colindex="2" role="cell" class="">8/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Curse of the Dead Gods</td><td aria-colindex="2" role="cell" class="">7/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Cyberpunk 2077</td><td aria-colindex="2" role="cell" class="">7.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Death stranding</td><td aria-colindex="2" role="cell" class="">6.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Diablo 4</td><td aria-colindex="2" role="cell" class="">7.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Doom</td><td aria-colindex="2" role="cell" class="">10/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Doom 2</td><td aria-colindex="2" role="cell" class="">10/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">F.I.S.T.: Forged In Shadow Torch</td><td aria-colindex="2" role="cell" class="">8/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Grime</td><td aria-colindex="2" role="cell" class="">7.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Horizon Forbidden West</td><td aria-colindex="2" role="cell" class="">6.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">It Takes Two</td><td aria-colindex="2" role="cell" class="">7.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Little Nightmares 2</td><td aria-colindex="2" role="cell" class="">7.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Marvel’s Spider-Man</td><td aria-colindex="2" role="cell" class="">7.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Metroid Dread</td><td aria-colindex="2" role="cell" class="">8/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Outlast</td><td aria-colindex="2" role="cell" class="">5.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Rayman Legends</td><td aria-colindex="2" role="cell" class="">8/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Resident Evil 4 Remake</td><td aria-colindex="2" role="cell" class="">9/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Returnal</td><td aria-colindex="2" role="cell" class="">7.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Rogue Legacy 2</td><td aria-colindex="2" role="cell" class="">7/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Sonic Mania</td><td aria-colindex="2" role="cell" class="">7/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Spelunky 2</td><td aria-colindex="2" role="cell" class="">7/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Super Mario Odissey</td><td aria-colindex="2" role="cell" class="">9/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Super Meatboy</td><td aria-colindex="2" role="cell" class="">7.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Unravel 2</td><td aria-colindex="2" role="cell" class="">7/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Vampire Survirors</td><td aria-colindex="2" role="cell" class="">7.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><tr role="row" class=""><td aria-colindex="1" role="cell" class="">Yakuza 0</td><td aria-colindex="2" role="cell" class="">8.5/10</td><td aria-colindex="3" role="cell" class=""></td></tr><!----><!----></tbody><!----></table>
