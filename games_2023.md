@@ -1,0 +1,19 @@
+# Актуальный список игр (в процессе)
+ - [x] Yakuza 0 - 8.5/10
+ - [x] Unravel 2 - 7/10
+ - [x] Grime - 7.5/10
+ - [x] Rogue Legacy 2 - 7.5/10
+ - [x] Super Mario Odissey - 9/10
+ - [x] Spelunky 2 - 7.5/10
+ - [x] Curse of the Dead Gods - 7/10
+ - [x] Little Nightmares 2 - 7.5/10
+ - [x] Death stranding - 6.5/10
+ - [x] Resident Evil 4 Remake - 9/10
+ - [x] Metroid Dread - 8/10
+ - [x] It Takes Two - 8/10
+ - [x] Vampire Survirors - 7.5/10
+ - [x] Doom - 10/10
+ - [x] Doom 2 - 10/10
+ - [x] Horizon Forbidden West - 6.5/10
+ - [x] Cyberpunk 2077 - 7.5/10
+ - [x] Sonic Mania - 7/10.0 
