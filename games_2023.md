@@ -1,9 +1,7 @@
 # Актуальный список игр за 2023 год
 ## Игры в процессе и ближайшие планы
-- [x] Blasphemous 2
-- [x] Armored Core VI: Fires of Rubicon
 - [x] GTA V
-- [ ] Sea of Stars
+- [x] Sea of Stars
 - [ ] Baldur's Gate 3
 - [ ] Dead Space Remake
 - [ ] Star Wars Jedi: Survivor
@@ -35,6 +33,11 @@
          <td aria-colindex="3" role="cell" class=""></td>
       </tr>
       <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Armored Core VI: Fires of Rubicon</td>
+         <td aria-colindex="2" role="cell" class="">7.5/10</td>
+         <td aria-colindex="3" role="cell" class="">В целом игра оставила положительное впечатление, это был мой первый опыт в серии AC. Из плюсов бодрая боевка, симпатичный графон, большой простор для билдов и реиграбельности. Из минусов: линейность, отсутствие внятного сюжета, внезапные перекосы в сложности: большая часть игры пройдена очень легко, но несколько боссов сильно сложнее остальной игры, это вызвало недоумение.</td>
+      </tr>
+      <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Batman: Arkham Asylum</td>
          <td aria-colindex="2" role="cell" class="">8/10</td>
          <td aria-colindex="3" role="cell" class=""></td>
@@ -43,6 +46,11 @@
          <td aria-colindex="1" role="cell" class="">Batman: Arkham City</td>
          <td aria-colindex="2" role="cell" class="">8/10</td>
          <td aria-colindex="3" role="cell" class=""></td>
+      </tr>
+      <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Blasphemous 2</td>
+         <td aria-colindex="2" role="cell" class="">8/10</td>
+         <td aria-colindex="3" role="cell" class="">Весьма качественное метро, гораздо более приятный гейм дизайн по сравнению с душной первой частью. Понравилось как три оружия разнообразят и боевку и общий метроидванский геймплей. Боссы может не такие визуально прикольные как в первой части, но геймплейно показались весьма веселыми и сбалансированными</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Curse of the Dead Gods</td>
