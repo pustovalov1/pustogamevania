@@ -2,6 +2,7 @@
 ## Игры в процессе и ближайшие планы
 - [x] GTA V
 - [x] Sea of Stars
+- [ ] Lies of P
 - [ ] Baldur's Gate 3
 - [ ] Dead Space Remake
 - [ ] Star Wars Jedi: Survivor
