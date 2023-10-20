@@ -1,8 +1,5 @@
 # Актуальный список игр за 2023 год
 ## Игры в процессе и ближайшие планы
-- [x] GTA V
-- [x] Sea of Stars
-- [ ] Lies of P
 - [ ] Baldur's Gate 3
 - [ ] Dead Space Remake
 - [ ] Star Wars Jedi: Survivor
@@ -89,6 +86,11 @@
          <td aria-colindex="3" role="cell" class=""></td>
       </tr>
       <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">GTA V</td>
+         <td aria-colindex="2" role="cell" class="">9.0/10</td>
+         <td aria-colindex="3" role="cell" class="">Определенно классика, нельзя не признать. Сам геймплей не так интересен, но красивый живой город и отличное чувство юмора создателей подкупает</td>
+      </tr>
+      <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Grime</td>
          <td aria-colindex="2" role="cell" class="">7.5/10</td>
          <td aria-colindex="3" role="cell" class=""></td>
@@ -102,6 +104,11 @@
          <td aria-colindex="1" role="cell" class="">It Takes Two</td>
          <td aria-colindex="2" role="cell" class="">7.5/10</td>
          <td aria-colindex="3" role="cell" class=""></td>
+      </tr>
+      <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Lies of P</td>
+         <td aria-colindex="2" role="cell" class="">8.0/10</td>
+         <td aria-colindex="3" role="cell" class="">Определенно лучший соулслайк не от FromSofrware по моему мнению. Классный визуал, музыка, атмосфера в игре, интересно исследовать мир. В целом играется очень приятно, много сложных и интересных боссов. Из минусов: ближе к концу локации душные и неинтересные, местами кажется, что пережестили по сложности с боссами, есть вопросы к балансу и системе прокачки</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Little Nightmares 2</td>
@@ -147,6 +154,11 @@
          <td aria-colindex="1" role="cell" class="">Sonic Mania</td>
          <td aria-colindex="2" role="cell" class="">7/10</td>
          <td aria-colindex="3" role="cell" class=""></td>
+      </tr>
+      <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Sea of Stars</td>
+         <td aria-colindex="2" role="cell" class="">7.5/10</td>
+         <td aria-colindex="3" role="cell" class="">Приятная JRPG. Плюсы: неплохой сюжет + очень нравится такой ретро визуал. Минусы: боевка не слишком разнообразная и к концу начинает надоедать, к тому же слишком простая, не уверен, что хоть раз умер за всю игру</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Spelunky 2</td>
