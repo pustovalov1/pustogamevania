@@ -1,6 +1,6 @@
 # Актуальный список игр за 2023 год
 ## Игры в процессе и ближайшие планы
-- [ ] Baldur's Gate 3
+- [x] Baldur's Gate 3
 - [ ] Dead Space Remake
 - [ ] Star Wars Jedi: Survivor
 
