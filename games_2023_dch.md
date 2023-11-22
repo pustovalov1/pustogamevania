@@ -14,14 +14,14 @@
 - [ ] Heroes 4
 
 ## Потрогал. Не зашло
-- [_] RIDE 4
-- [_] Crash Bandicoot 4
-- [_] Pharaoh: A New Era
-- [_] Super Mario Odyssey
-- [_] Jagged Alliance 3
-- [_] Old world
-- [_] Stardew Valley
-- [_] Knights of Honor II - Sovereign
+- [ ] RIDE 4
+- [ ] Crash Bandicoot 4
+- [ ] Pharaoh: A New Era
+- [ ] Super Mario Odyssey
+- [ ] Jagged Alliance 3
+- [ ] Old world
+- [ ] Stardew Valley
+- [ ] Knights of Honor II - Sovereign
 
 ## Пройденные игры
 
