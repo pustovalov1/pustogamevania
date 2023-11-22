@@ -4,14 +4,17 @@
 - [x] Dead Space Remake
 - [x] Resident Evil 3 (2020)
 - [x] The Invincible
+- [ ] Red dead redemption 2
 
 ## Потрогал. Зашло. Отложил
 
 - [ ] Blue Wednesday
 - [ ] ANNO 1800
 - [ ] Resident Evil 3 (2020)
-- [ ] The Invincible
+- [ ] Elden ring
+- [ ] Resident Evil Village
 - [ ] Heroes 4
+- [ ] Darkest dungeon
 
 ## Потрогал. Не зашло
 - [ ] RIDE 4
@@ -22,6 +25,7 @@
 - [ ] Old world
 - [ ] Stardew Valley
 - [ ] Knights of Honor II - Sovereign
+- [ ] Street fighter 6
 
 ## Пройденные игры
 
