@@ -1,8 +1,10 @@
 # Актуальный список игр за 2023 год
 ## Игры в процессе и ближайшие планы
 - [x] Baldur's Gate 3
+- [x] Tails of Iron
 - [ ] Dead Space Remake
 - [ ] Star Wars Jedi: Survivor
+- [ ] Return to Monkey Island
 
 ## Пройденные игры
 
@@ -149,6 +151,11 @@
          <td aria-colindex="1" role="cell" class="">Rogue Legacy 2</td>
          <td aria-colindex="2" role="cell" class="">7/10</td>
          <td aria-colindex="3" role="cell" class=""></td>
+      </tr>
+      <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">The Last Faith</td>
+         <td aria-colindex="2" role="cell" class="">7/10</td>
+         <td aria-colindex="3" role="cell" class="">Вроде неплохая метроидвания, но чего-то не хватает. Очень приятно выглядит на мой вкус, но на этом основные плюсы и заканчиваются, разработчики явно пытались эксплуатировать чувства фанатов bloodborne и castlevania, при этом по существу игра очень близка к blasphemous, но хуже. Не понравилось: унылые заезженные метроидвании, слабые мобы (по моему против примерно 100% работает паттерн с перекатом за спину и накидыванием в спину), мало запоминающихся боссов, ваншотные шипы и ямки (от которых кстати в blasphemous 2 отказались). В целом игра выглядит несколько вторично, как будто все спиздили (даже их Hollow Knight анимацию дабл джампа с крылышками), чтоб чисто разаботать денег, так что оценка в 7 вероятно даже завышена</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Sonic Mania</td>
