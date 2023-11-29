@@ -47,7 +47,6 @@
    </thead>
    <tbody role="rowgroup">
       <!---->
-
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">The Invincible</td>
          <td aria-colindex="2" role="cell" class="">7/10</td>
