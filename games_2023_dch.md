@@ -3,7 +3,6 @@
 - [x] Cuphead
 - [x] Dead Space Remake
 - [x] Resident Evil 3 (2020)
-- [x] The Invincible
 - [ ] Red dead redemption 2
 
 ## Потрогал. Зашло. Отложил
@@ -48,6 +47,12 @@
    </thead>
    <tbody role="rowgroup">
       <!---->
+
+      <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">The Invincible</td>
+         <td aria-colindex="2" role="cell" class="">7/10</td>
+         <td aria-colindex="3" role="cell" class="">Трогательная видеоновелла по роману Станислава Лема "Непобедимый". Именно это произведение я не читал, и ровно поэтому игра зашла "на ура". Да, бесхитростное управлени. Да нет экшена. Но, история просто потряссающая, а стиль Лема по мере прохождения все ярче проявляется. Виды замечательные, а музыка просто бесподобна. Однозначно к разовому прохождению рекомендуется.</td>
+      </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Dredge</td>
          <td aria-colindex="2" role="cell" class="">6/10</td>
