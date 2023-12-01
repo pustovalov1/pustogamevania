@@ -48,6 +48,11 @@
    <tbody role="rowgroup">
       <!---->
       <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Cuphead</td>
+         <td aria-colindex="2" role="cell" class="">9/10</td>
+         <td aria-colindex="3" role="cell" class="">Уникальна и неповторима в своем жанре.</td>
+      </tr>
+      <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">The Invincible</td>
          <td aria-colindex="2" role="cell" class="">7/10</td>
          <td aria-colindex="3" role="cell" class="">Трогательная видеоновелла по роману Станислава Лема "Непобедимый". Именно это произведение я не читал, и ровно поэтому игра зашла "на ура". Да, бесхитростное управлени. Да нет экшена. Но, история просто потряссающая, а стиль Лема по мере прохождения все ярче проявляется. Виды замечательные, а музыка просто бесподобна. Однозначно к разовому прохождению рекомендуется.</td>
