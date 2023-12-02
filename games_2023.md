@@ -2,6 +2,7 @@
 ## Игры в процессе и ближайшие планы
 - [x] Baldur's Gate 3
 - [x] Tails of Iron
+- [x] Ninja Gaiden Sigma
 - [ ] Dead Space Remake
 - [ ] Star Wars Jedi: Survivor
 - [ ] Return to Monkey Island
