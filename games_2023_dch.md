@@ -2,7 +2,6 @@
 ## Игры в процессе и ближайшие планы
 - [x] Cuphead
 - [x] Dead Space Remake
-- [x] Resident Evil 3 (2020)
 - [ ] Red dead redemption 2
 
 ## Потрогал. Зашло. Отложил
@@ -47,6 +46,11 @@
    </thead>
    <tbody role="rowgroup">
       <!---->
+      <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Resident Evil 3</td>
+         <td aria-colindex="2" role="cell" class="">9/10</td>
+         <td aria-colindex="3" role="cell" class="">Прекрасная история. Пожалуй, лучшая часть среди всех RE которые были выпущены, но при этом сыграны мной :)</td>
+      </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Cuphead</td>
          <td aria-colindex="2" role="cell" class="">9/10</td>
