@@ -1,8 +1,9 @@
 # Актуальный список игр за 2023 год (другого челика)
 ## Игры в процессе и ближайшие планы
 - [x] Cuphead
-- [x] Dead Space Remake
-- [ ] Red dead redemption 2
+- [x] Red dead redemption 2
+- [x] Sekiro: Shadows Die Twice 
+- [ ] Dead Space Remake
 
 ## Потрогал. Зашло. Отложил
 
