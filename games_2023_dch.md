@@ -1,4 +1,5 @@
 # Актуальный список игр за 2023 год (другого челика)
+
 ## Игры в процессе и ближайшие планы
 - [x] Red dead redemption 2
 - [x] Sekiro: Shadows Die Twice 
@@ -27,79 +28,76 @@
 
 ## Пройденные игры
 
-<table role="table" aria-busy="false" aria-colcount="3" class="table b-table gl-mt-0! gl-table" id="__BVID__297">
+<table>
    <caption><small>Generated with respect to hands.</small></caption>
-   <!---->
-   <thead role="rowgroup" class="">
-      <!---->
-      <tr role="row" class="">
-         <th role="columnheader" scope="col" tabindex="0" aria-colindex="1" aria-sort="ascending" class="position-relative">
+   <thead>
+      <tr>
+         <th nowrap="nowrap">
             <div>Название игры</div>
          </th>
-         <th role="columnheader" scope="col" tabindex="0" aria-colindex="2" aria-sort="none" class="position-relative">
+         <th>
             <div>Моя оценка</div>
          </th>
-         <th role="columnheader" scope="col" aria-colindex="3" class="position-relative">
+         <th>
             <div>metacritic</div>
          </th>
       </tr>
    </thead>
-   <tbody role="rowgroup">
-      <!---->
-      <tr role="row" class="">
-         <td aria-colindex="1" role="cell" class="">Resident Evil 3</td>
-         <td aria-colindex="2" role="cell" class="">9/10</td>
-         <td aria-colindex="3" role="cell" class="">Прекрасная история. Пожалуй, лучшая часть среди всех RE которые были выпущены, но при этом сыграны мной :)</td>
+   <tbody>
+      <tr>
+         <td>Resident Evil 3</td>
+         <td>9/10</td>
+         <td>Прекрасная история. Пожалуй, лучшая часть среди всех RE которые были выпущены, но при этом сыграны мной :)</td>
       </tr>
-      <tr role="row" class="">
-         <td aria-colindex="1" role="cell" class="">Cuphead</td>
-         <td aria-colindex="2" role="cell" class="">9/10</td>
-         <td aria-colindex="3" role="cell" class="">Уникальна и неповторима в своем жанре.</td>
+      <tr>
+         <td>Cuphead</td>
+         <td>9/10</td>
+         <td>Уникальна и неповторима в своем жанре.</td>
       </tr>
-      <tr role="row" class="">
-         <td aria-colindex="1" role="cell" class="">The Invincible</td>
-         <td aria-colindex="2" role="cell" class="">7/10</td>
-         <td aria-colindex="3" role="cell" class="">Трогательная видеоновелла по роману Станислава Лема "Непобедимый". Именно это произведение я не читал, и ровно поэтому игра зашла "на ура". Да, бесхитростное управлени. Да нет экшена. Но, история просто потряссающая, а стиль Лема по мере прохождения все ярче проявляется. Виды замечательные, а музыка просто бесподобна. Однозначно к разовому прохождению рекомендуется.</td>
+      <tr>
+         <td>The Invincible</td>
+         <td>7/10</td>
+         <td>Трогательная видеоновелла по роману Станислава Лема "Непобедимый". Именно это произведение я не читал, и ровно поэтому игра зашла "на ура". Да, бесхитростное управлени. Да нет экшена. Но, история просто потряссающая, а стиль Лема по мере прохождения все ярче проявляется. Виды замечательные, а музыка просто бесподобна. Однозначно к разовому прохождению рекомендуется.</td>
       </tr>
-      <tr role="row" class="">
-         <td aria-colindex="1" role="cell" class="">Dredge</td>
-         <td aria-colindex="2" role="cell" class="">6/10</td>
-         <td aria-colindex="3" role="cell" class="">Небольшое приключение для худощаво-прыщавых любителей Говарда Лавкрафта (Интересно, есть-ли такие моложе сорока лет?). Где-то, среди затерянных островов, развиваем навык рыбалки, параллельно впитывая остросюжетную историю. Игра заканчивается быстро и неожиданно. Удовлетворения сравнимое по удовольствию от прохождения, скажем, frost punk, нет и близко. Но и ничего плохого сказать нельзя. Методично и лениво для тех, кто никуда не спешит. И даже несмотря на тотальное отсутсвие спешки, игра проходится за пару вечеров.</td>
+      <tr>
+         <td>Dredge</td>
+         <td>6/10</td>
+         <td>Небольшое приключение для худощаво-прыщавых любителей Говарда Лавкрафта (Интересно, есть-ли такие моложе сорока лет?). Где-то, среди затерянных островов, развиваем навык рыбалки, параллельно впитывая остросюжетную историю. Игра заканчивается быстро и неожиданно. Удовлетворения сравнимое по удовольствию от прохождения, скажем, frost punk, нет и близко. Но и ничего плохого сказать нельзя. Методично и лениво для тех, кто никуда не спешит. И даже несмотря на тотальное отсутсвие спешки, игра проходится за пару вечеров.</td>
       </tr>
-      <tr role="row" class="">
-         <td aria-colindex="1" role="cell" class="">Diablo 3</td>
-         <td aria-colindex="2" role="cell" class="">7/10</td>
-         <td aria-colindex="3" role="cell" class="">Самое время пройти, ставшую уже классикой игру, в момент выхода следующей очередной, четвертой части. Дерзко. Мощно. Приятно. При отсутсвии должных навыков и стремления играть на повышенных уровнях сложности, боссы отлетают не успевая до конца договорить вдохновляющую речь перед битвой. Вот за это большой лайк!</td>
+      <tr>
+         <td>Diablo 3</td>
+         <td>7/10</td>
+         <td>Самое время пройти, ставшую уже классикой игру, в момент выхода следующей очередной, четвертой части. Дерзко. Мощно. Приятно. При отсутсвии должных навыков и стремления играть на повышенных уровнях сложности, боссы отлетают не успевая до конца договорить вдохновляющую речь перед битвой. Вот за это большой лайк!</td>
       </tr>
-      <tr role="row" class="">
-         <td aria-colindex="1" role="cell" class="">Into the breach</td>
-         <td aria-colindex="2" role="cell" class="">7/10</td>
-         <td aria-colindex="3" role="cell" class="">От разработчиков Faster than light. Стиль угадывается молниеносно. Игра не очень-то и простая, но стоит погрузиться, как вариативность начинает возбуждать. Недаром игровое поле размером в 64 клетки — понятно какой игрой вдохновлялись разрабы. Отдельно в опциях можно включить ни на что не влияющий таймер (игра пошаговая), просто чтобы наблюдать в прямом эфире сколько времени ваш мозг бездействует понапрасну. Очень и очень приятная игра.</td>
+      <tr>
+         <td>Into the breach</td>
+         <td>7/10</td>
+         <td>От разработчиков Faster than light. Стиль угадывается молниеносно. Игра не очень-то и простая, но стоит погрузиться, как вариативность начинает возбуждать. Недаром игровое поле размером в 64 клетки — понятно какой игрой вдохновлялись разрабы. Отдельно в опциях можно включить ни на что не влияющий таймер (игра пошаговая), просто чтобы наблюдать в прямом эфире сколько времени ваш мозг бездействует понапрасну. Очень и очень приятная игра.</td>
       </tr>
-      <tr role="row" class="">
-         <td aria-colindex="1" role="cell" class="">Guacamelee 2</td>
-         <td aria-colindex="2" role="cell" class="">8/10</td>
-         <td aria-colindex="3" role="cell" class=""></td>
+      <tr>
+         <td>Guacamelee 2</td>
+         <td>8/10</td>
+         <td></td>
       </tr>
-      <tr role="row" class="">
-         <td aria-colindex="1" role="cell" class="">Resident Evil 2</td>
-         <td aria-colindex="2" role="cell" class="">9/10</td>
-         <td aria-colindex="3" role="cell" class=""></td>
+      <tr>
+         <td>Resident Evil 2</td>
+         <td>9/10</td>
+         <td></td>
       </tr>
-      <tr role="row" class="">
-         <td aria-colindex="1" role="cell" class="">Resident Evil 4</td>
-         <td aria-colindex="2" role="cell" class="">8.5/10</td>
-         <td aria-colindex="3" role="cell" class=""></td>
+      <tr>
+         <td>Resident Evil 4</td>
+         <td>8.5/10</td>
+         <td></td>
       </tr>
-      <tr role="row" class="">
-         <td aria-colindex="1" role="cell" class="">SteamWorld Dig</td>
-         <td aria-colindex="2" role="cell" class="">7/10</td>
-         <td aria-colindex="3" role="cell" class=""></td>
+      <tr>
+         <td>SteamWorld Dig</td>
+         <td>7/10</td>
+         <td></td>
       </tr>
-      <tr role="row" class="">
-         <td aria-colindex="1" role="cell" class="">SteamWorld Dig 2</td>
-         <td aria-colindex="2" role="cell" class="">7.5/10</td>
-         <td aria-colindex="3" role="cell" class=""></td>
+      <tr>
+         <td>SteamWorld Dig 2</td>
+         <td>7.5/10</td>
+         <td></td>
       </tr>
       <!----><!---->
    </tbody>
