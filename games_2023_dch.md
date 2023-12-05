@@ -1,15 +1,14 @@
 # Актуальный список игр за 2023 год (другого челика)
 ## Игры в процессе и ближайшие планы
-- [x] Cuphead
 - [x] Red dead redemption 2
 - [x] Sekiro: Shadows Die Twice 
+- [x] SteamWorld Build
 - [ ] Dead Space Remake
 
 ## Потрогал. Зашло. Отложил
 
 - [ ] Blue Wednesday
 - [ ] ANNO 1800
-- [ ] Resident Evil 3 (2020)
 - [ ] Elden ring
 - [ ] Resident Evil Village
 - [ ] Heroes 4
