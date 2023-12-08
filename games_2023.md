@@ -3,6 +3,7 @@
 - [x] Baldur's Gate 3
 - [x] Tails of Iron
 - [x] Ninja Gaiden Sigma
+- [x] Cyber Shadow
 - [ ] Dead Space Remake
 - [ ] Star Wars Jedi: Survivor
 - [ ] Return to Monkey Island
