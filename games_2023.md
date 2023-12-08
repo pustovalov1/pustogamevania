@@ -76,12 +76,12 @@
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Doom</td>
-         <td aria-colindex="2" role="cell" class="">10/10</td>
+         <td aria-colindex="2" role="cell" class="">Classic</td>
          <td aria-colindex="3" role="cell" class=""></td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Doom 2</td>
-         <td aria-colindex="2" role="cell" class="">10/10</td>
+         <td aria-colindex="2" role="cell" class="">Classic</td>
          <td aria-colindex="3" role="cell" class=""></td>
       </tr>
       <tr role="row" class="">
