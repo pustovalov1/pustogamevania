@@ -5,7 +5,6 @@
 - [x] Sekiro: Shadows Die Twice 
 - [x] SteamWorld Build
 - [x] Hades
-- [ ] Dead Space Remake
 
 ## Потрогал. Зашло. Отложил
 
