@@ -2,7 +2,7 @@
 ## Игры в процессе и ближайшие планы
 - [x] Baldur's Gate 3
 - [x] Ninja Gaiden Sigma
-- [x] Cyber Shadow
+- [ ] God of War Ragnarök: Valhalla (DLC)
 - [ ] Dead Space Remake
 - [ ] Star Wars Jedi: Survivor
 - [ ] Return to Monkey Island
@@ -62,6 +62,11 @@
          <td aria-colindex="1" role="cell" class="">Cyberpunk 2077</td>
          <td aria-colindex="2" role="cell" class="">7.5/10</td>
          <td aria-colindex="3" role="cell" class=""></td>
+      </tr>
+      <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Cyber Shadow</td>
+         <td aria-colindex="2" role="cell" class="">7.0/10</td>
+         <td aria-colindex="3" role="cell" class="">Неплохой 2D платформер side-scroller с явным закосом под классические ninja gaiden на nes. Сказать особенно нечего, любителям жанра должно зайти, на разок норм. Местами душновато, но наверно так и должно быть.</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Death stranding</td>
