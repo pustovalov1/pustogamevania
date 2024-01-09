@@ -3,6 +3,7 @@
 - [x] Ninja Gaiden Sigma
 - [x] God of War Ragnarök: Valhalla (DLC)
 - [x] Return to Monkey Island
+- [x] Worms W.M.D
 - [ ] Dead Space Remake
 - [ ] Star Wars Jedi: Survivor
 
