@@ -1,4 +1,9 @@
 # Актуальный список игр за 2023 год
+## Премия: лучшие игры 2023 года по версии pustogamevania
+1) Baldur's Gate 3
+2) Resident Evil 4 Remake
+3) Lies of P
+
 ## Игры в процессе и ближайшие планы
 - [x] Baldur's Gate 3
 - [x] Ninja Gaiden Sigma
