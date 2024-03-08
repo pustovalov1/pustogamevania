@@ -1,6 +1,8 @@
 # Актуальный список игр за 2024 год
 ## Игры в процессе и ближайшие планы
-- [x] Star Wars Jedi: Survivor
+- [x] Alan Wake
+- [x] Mega Man 11
+- [x] Castlevania: Harmony of Dissonance
 
 ## Пройденные игры
 
@@ -57,6 +59,11 @@
          <td aria-colindex="1" role="cell" class="">Silent Hill: The Short Message</td>
          <td aria-colindex="2" role="cell" class="">1.0/10</td>
          <td aria-colindex="3" role="cell" class="">"Это какой-то позор". Во-первых это не имеет никакого отношения к сайлент хиллу и это просто плевой в фанатов серии. Во-вторых это даже не игра, а ебучий симулятор ходьбы на 2 часа, который якобы пытается выдавить из игрока какую-то эмоцию.</td>
+      </tr>
+      <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Star Wars Jedi: Survivor</td>
+         <td aria-colindex="2" role="cell" class="">7.0/10</td>
+         <td aria-colindex="3" role="cell" class="">"</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">The Evil Within</td>
