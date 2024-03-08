@@ -53,7 +53,7 @@
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Return to Monkey Island</td>
          <td aria-colindex="2" role="cell" class="">8.5/10</td>
-         <td aria-colindex="3" role="cell" class="">todo</td>
+         <td aria-colindex="3" role="cell" class="">Очень кайфовый квест, можно сказать эталонный. Придраться практически не к чему, все хорошо: очень приятная рисовка, юморок, сложность приятная - не слишком просто и не слишком сложно, длина игры в целом тоже в районе золотой середины. Для любителей жанра квестой - абсолютный must play. С гордостью могу сказать, что ни разу не загуглил и все прошел сам, хотя были несколько моментов с затупами.</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Silent Hill: The Short Message</td>
