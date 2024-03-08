@@ -3,6 +3,9 @@
 - [x] Alan Wake
 - [x] Mega Man 11
 - [x] Castlevania: Harmony of Dissonance
+- [ ] Yakuza Kiwami
+- [ ] Resident Evil 4 - Separate Ways (DLC)
+- [ ] The Evil Within 2
 
 ## Пройденные игры
 
