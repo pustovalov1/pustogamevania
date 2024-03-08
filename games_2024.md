@@ -33,7 +33,7 @@
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Dead Space Remake</td>
          <td aria-colindex="2" role="cell" class="">8.5/10</td>
-         <td aria-colindex="3" role="cell" class="">todo</td>
+         <td aria-colindex="3" role="cell" class="">Классный хоррор шутан с отличной атмосферой и рядом довольно интересных механик, которые редко где встретишь, тем более в таком жанре, например всяческие притягивания-отталкивания, левитация, топот и т.д. Также неожиданно оказалось, что присутствует неплохой сюжетец, а вселенная имеет довольно обширный лор, в том числе книги, мульты и. т.д. Если сделают ремейки других частей, с удовольствием поиграю.</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">God of War Ragnarök: Valhalla (DLC)</td>
