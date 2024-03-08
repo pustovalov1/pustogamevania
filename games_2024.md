@@ -63,7 +63,7 @@
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Star Wars Jedi: Survivor</td>
          <td aria-colindex="2" role="cell" class="">7.0/10</td>
-         <td aria-colindex="3" role="cell" class="">"</td>
+         <td aria-colindex="3" role="cell" class="">По ощущениям 2-я часть существенно просела по сравнению с 1-й. Боссы однообразные и неинтересные, ветки прокачки довольно унылые, прокачка толком не ощущается, процесс исследования мира не особо увлекает, нет интересных метроидваний. Ну и сюжет невнятный, более половины игры, я вообще не понимал, что происходит и в чем заключается main line, концовка тоже не впечатлила. Что можно похвалить в игре, даже затрудняюсь сказать, в целом - разочарование</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">The Evil Within</td>
