@@ -1,8 +1,7 @@
 # Актуальный список игр за 2024 год
 ## Игры в процессе и ближайшие планы
-- [x] Alan Wake
-- [x] Mega Man 11
 - [x] Castlevania: Harmony of Dissonance
+- [x] Silent Hill (PS1)
 - [ ] Yakuza Kiwami
 - [ ] Resident Evil 4 - Separate Ways (DLC)
 - [ ] The Evil Within 2
@@ -29,6 +28,11 @@
    <tbody role="rowgroup">
       <!---->
       <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Alan Wake Remastered</td>
+         <td aria-colindex="2" role="cell" class="">6.5/10</td>
+         <td aria-colindex="3" role="cell" class="">Весьма неплохой сюжет, из которого можно было бы сделать топовый хоррор, но к сожалению геймплей нулевой, близко к симулятору ходьбы с убогой боевкой. К тому же графика для ремастера убогенькая.</td>
+      </tr>
+      <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Baldur's Gate 3</td>
          <td aria-colindex="2" role="cell" class="">9.5/10</td>
          <td aria-colindex="3" role="cell" class="">Абсолютный шедевр и заслуженно лучшая игра 2023 года! Я не большой знаток RPG игр, но сомневаюсь, что что-то подобное когда-либо создавалось, вероятно лучшая игра в этом жанре и однозначный must play для каждого. Это настоящее большое приключение с красивыми локациями, крутым сюжетом, интересными персонажами и конечно отличным чувством юмора. Помимо того, что прохождение заняло у меня порядка 200 часов, чувствуется огромный потенциал в реиграбельности за счет большого количества классов/билдов, вариативности принятия решений по сюжету, а также отдельного режима игры. Под конец прохождения была легкая грусть, что приключение заканчивается, хотя за 200 часов конечно утомляешься от любой игры, какой бы хорошей она не была. По содержанию игры вообще не к чему придраться, так что пол бала снял за некоторые технические недочеты.</td>
@@ -42,6 +46,11 @@
          <td aria-colindex="1" role="cell" class="">God of War Ragnarök: Valhalla (DLC)</td>
          <td aria-colindex="2" role="cell" class="">Без оценки (т.к. DLC)</td>
          <td aria-colindex="3" role="cell" class="">Достаточно годное DLC в стиле рогалика, заставило вспомнить кайфовую боевочку игры. И бесплатное, что большая редкость в наши времена! В целом - лайк!</td>
+      </tr>
+      <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Mega Man 11</td>
+         <td aria-colindex="2" role="cell" class="">7.5/10</td>
+         <td aria-colindex="3" role="cell" class="">Весьма приятное современное ретро в стиле классических мегаменов, но с рядом новых механик. В целом однозначный лайк.</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Metal: Hellsinger</td>
