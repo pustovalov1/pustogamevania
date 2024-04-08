@@ -51,6 +51,11 @@
          <td aria-colindex="3" role="cell" class="">Достаточно годное DLC в стиле рогалика, заставило вспомнить кайфовую боевочку игры. И бесплатное, что большая редкость в наши времена! В целом - лайк!</td>
       </tr>
       <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Machinarium</td>
+         <td aria-colindex="2" role="cell" class="">8.0/10</td>
+         <td aria-colindex="3" role="cell" class="">todo</td>
+      </tr>
+      <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Mega Man 11</td>
          <td aria-colindex="2" role="cell" class="">7.5/10</td>
          <td aria-colindex="3" role="cell" class="">Весьма приятное современное ретро в стиле классических мегаменов, но с рядом новых механик. В целом однозначный лайк.</td>
