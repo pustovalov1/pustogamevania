@@ -53,7 +53,7 @@
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Machinarium</td>
          <td aria-colindex="2" role="cell" class="">8.0/10</td>
-         <td aria-colindex="3" role="cell" class="">todo</td>
+         <td aria-colindex="3" role="cell" class="">Суперский квест: визуал и аудиосопровождение приятнейшее, а конкурсы, т.е. загадки интересные. Местами даже слишком сложные, мозг плавится! Тем не менее удалось справиться без гугления, но с помощью Дмитрия Георгиевича.</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Mega Man 11</td>
