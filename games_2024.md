@@ -1,8 +1,7 @@
 # Актуальный список игр за 2024 год
 ## Игры в процессе и ближайшие планы
-- [x] Evil West
-- [ ] Resident Evil 4 - Separate Ways (DLC)
-- [ ] The Evil Within 2
+- [ ] Elden Ring: Shadow of the Erdtree (DLC)
+- [ ] Resident Evil 4: Separate Ways (DLC)
 
 ## Пройденные игры
 
@@ -26,6 +25,11 @@
    <tbody role="rowgroup">
       <!---->
       <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Animal Well</td>
+         <td aria-colindex="2" role="cell" class="">8.0/10</td>
+         <td aria-colindex="3" role="cell" class="">todo</td>
+      </tr>
+      <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Alan Wake Remastered</td>
          <td aria-colindex="2" role="cell" class="">6.5/10</td>
          <td aria-colindex="3" role="cell" class="">Весьма неплохой сюжет, из которого можно было бы сделать топовый хоррор, но к сожалению геймплей нулевой, близко к симулятору ходьбы с убогой боевкой. К тому же графика для ремастера убогенькая.</td>
@@ -46,9 +50,19 @@
          <td aria-colindex="3" role="cell" class="">Классный хоррор шутан с отличной атмосферой и рядом довольно интересных механик, которые редко где встретишь, тем более в таком жанре, например всяческие притягивания-отталкивания, левитация, топот и т.д. Также неожиданно оказалось, что присутствует неплохой сюжетец, а вселенная имеет довольно обширный лор, в том числе книги, мульты и. т.д. Если сделают ремейки других частей, с удовольствием поиграю.</td>
       </tr>
       <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Evil West</td>
+         <td aria-colindex="2" role="cell" class="">7.0/10</td>
+         <td aria-colindex="3" role="cell" class="">todo</td>
+      </tr>
+      <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">God of War Ragnarök: Valhalla (DLC)</td>
          <td aria-colindex="2" role="cell" class="">Без оценки (т.к. DLC)</td>
          <td aria-colindex="3" role="cell" class="">Достаточно годное DLC в стиле рогалика, заставило вспомнить кайфовую боевочку игры. И бесплатное, что большая редкость в наши времена! В целом - лайк!</td>
+      </tr>
+      <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Ghostrunner</td>
+         <td aria-colindex="2" role="cell" class="">todo</td>
+         <td aria-colindex="3" role="cell" class="">7.0</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Machinarium</td>
@@ -64,6 +78,11 @@
          <td aria-colindex="1" role="cell" class="">Metal: Hellsinger</td>
          <td aria-colindex="2" role="cell" class="">7.5/10</td>
          <td aria-colindex="3" role="cell" class="">Вполне себе кайфовый шутан! Плюсы: в первую и главную очередь крутой metal саундтрек, который добавляет атмосферности и необычная механика с необходимостью стрелять в такт музыке. Минусы: небольшое разнообразие врагов/оружия, очень линейные уровни, однообразные (как минимум визуально) боссы, короткая сюжетка (ходя здесь этот может и плюс из-за низкой разнообразности).</td>
+      </tr>
+      <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">Moonscars</td>
+         <td aria-colindex="2" role="cell" class="">7.0/10</td>
+         <td aria-colindex="3" role="cell" class="">todo</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Ninja Gaiden Sigma</td>
@@ -97,8 +116,13 @@
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">The Evil Within</td>
-         <td aria-colindex="2" role="cell" class="">8.0/10</td>
+         <td aria-colindex="2" role="cell" class="">8.5/10</td>
          <td aria-colindex="3" role="cell" class="">Давно была мысль поиграть, но опасался, что это какой-то кал типа Outlast и симулятор игры в прятки. К счастью я ошибался и неожиданно оказался весьма годный survival horror! По геймплею напоминает RE4, что-то среднее между оригиналом и ремейком. А по сюжету что-то более безумное, мб отчасти в духе silent hill. В общем я кайфанул и однозначно буду играть во 2-ю часть.</td>
+      </tr>
+      <tr role="row" class="">
+         <td aria-colindex="1" role="cell" class="">The Evil Within 2</td>
+         <td aria-colindex="2" role="cell" class="">7.5/10</td>
+         <td aria-colindex="3" role="cell" class="">todo</td>
       </tr>
       <tr role="row" class="">
          <td aria-colindex="1" role="cell" class="">Worms W.M.D</td>
