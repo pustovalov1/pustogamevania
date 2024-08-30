@@ -1,7 +1,9 @@
 # Актуальный список игр за 2024 год
 ## Игры в процессе и ближайшие планы
 - [x] Black Myth: Wukong
-- [x] Remnant II 
+- [x] Remnant II
+- [ ] Silent Hill 2 Remake
+- [ ] Tormented Souls
 
 ## Пройденные игры
 
