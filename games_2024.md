@@ -4,6 +4,8 @@
 - [x] Remnant II
 - [ ] Silent Hill 2 Remake
 - [ ] Tormented Souls
+- [ ] The Plucky Squire
+- [ ] Nine Sols
 
 ## Пройденные игры
 
