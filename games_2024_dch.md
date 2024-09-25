@@ -5,7 +5,6 @@
 - [x] Star trucker
 - [x] Animal well
 - [x] Elden ring
-- [x] Hades II
 - [ ] Kingdom come deliverance
 - [ ] Lies of Pi
 
