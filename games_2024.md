@@ -3,6 +3,8 @@
 - [ ] Final Fantasy VII Rebirth
 - [ ] Signalis
 - [ ] Tormented Souls
+- [ ] Prince of Persia: The Lost Crown
+- [ ] Stellar Blade
 
 ## Пройденные игры
 
