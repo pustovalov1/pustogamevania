@@ -1,17 +1,10 @@
 # Актуальный список игр за 2024 год
 ## Игры в процессе и ближайшие планы
-- [x] Rayman Legends
-- [x] Diablo IV
-- [x] Star trucker
-- [x] Animal well
-- [x] Elden ring
+- [ ] Animal well
 - [ ] Kingdom come deliverance
-- [ ] Lies of Pi
+- [x] Half life 2
 
 ## Пройденные игры
-- [x] Tunic
-- [x] Mafia: Definitive Edition
-- [x] F.I.S.T.: Forged In Shadow Torch
 
 <table role="table" aria-busy="false" aria-colcount="3" class="table b-table gl-mt-0! gl-table" id="__BVID__297">
    <caption><small>Generated with respect to hands.</small></caption>
