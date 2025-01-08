@@ -1,5 +1,5 @@
 # Актуальный список игр за 2024 год
-## Премия: лучшие игры 2023 года по версии pustogamevania
+## Премия: лучшие игры 2024 года по версии pustogamevania
 1) Black Myth: Wukong
 2) Silent Hill 2 Remake
 3) Animal Well
