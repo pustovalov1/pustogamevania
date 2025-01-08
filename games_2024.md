@@ -1,8 +1,13 @@
 # Актуальный список игр за 2024 год
+## Премия: лучшие игры 2023 года по версии pustogamevania
+1) Black Myth: Wukong
+2) Silent Hill 2 Remake
+3) Animal Well
+   
 ## Игры в процессе и ближайшие планы
 - [x] Stellar Blade
 - [x] Final Fantasy VII Rebirth
-- [ ] Tormented Souls
+- [x] Deaths' Door
 
 ## Пройденные игры
 
