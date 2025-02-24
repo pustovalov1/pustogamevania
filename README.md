@@ -1,5 +1,7 @@
 # pustogamevania
 
+!!! ВНИМАНИЕ - проект переезжает на https://mygamelist.club/pustogamevania !!!!
+
 Меня зовут Дима и я фанат компьютерных игр! =) 
 
 Люблю соулсы, метроидвании и в целом любые качественные игры. Эпизодически стримлю тут: https://www.youtube.com/channel/UC1d0f2E5m9gBZRol6BImVjg
