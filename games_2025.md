@@ -1,4 +1,6 @@
 # Актуальный список игр за 2024 год
+
+!!! Внимание: проект переезжает на https://mygamelist.club/pustogamevania !!!
    
 ## Игры в процессе и ближайшие планы
 - [x] Final Fantasy VII Rebirth
